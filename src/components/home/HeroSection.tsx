@@ -1,10 +1,10 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Play, Sparkles, TrendingUp, Zap } from "lucide-react";
-import GoogleAds from "@/assets/googleAds.svg";
-import linkedin from "@/assets/linkedin.svg";
-import tiktok from "@/assets/tiktok.svg";
-import reddit from "@/assets/reddit.svg";
-import meta from "@/assets/meta.svg";
+import GoogleAds from "../../assets/googleAds.svg";
+import linkedin from "../../assets/linkedin.svg";
+import tiktok from "../../assets/tiktok.svg";
+import reddit from "../../assets/reddit.svg";
+import meta from "../../assets/meta.svg";
 
 const HeroSection = () => {
     const platforms = [
